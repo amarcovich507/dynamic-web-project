@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Cambio sin la última versión </title>
+<title>Cambio sin la Ãºltima versiÃ³n desde el GitHub</title>
 </head>
 <body>
 
